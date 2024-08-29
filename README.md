@@ -1,3 +1,4 @@
+![Screenshot_29-8-2024_232944_localhost](https://github.com/user-attachments/assets/34642885-ed15-41ff-91a9-4411b838747f)
 # Simple Authentication System and Dashboard
 
 ## Overview
