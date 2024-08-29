@@ -1,5 +1,3 @@
-## Screenshot
-![Screenshot_29-8-2024_232944_localhost](https://github.com/user-attachments/assets/34642885-ed15-41ff-91a9-4411b838747f)
 
 # Simple Authentication System and Dashboard
 
@@ -156,4 +154,12 @@ PORT=5000
 - Implement password recovery functionality.
 - Add user profile management.
 - Replace dummy data with actual database queries for real-world use.
+
+## Screenshots
+#Signup
+![Screenshot_29-8-2024_233823_localhost](https://github.com/user-attachments/assets/1210c44e-8b03-493e-8c75-aac1d7b642b1)
+#Login
+![Screenshot_29-8-2024_233530_localhost](https://github.com/user-attachments/assets/2b9d69ea-08d9-4200-8bb8-455da8e41666)
+#Dashboard
+![Screenshot_29-8-2024_232944_localhost](https://github.com/user-attachments/assets/34642885-ed15-41ff-91a9-4411b838747f)
 
