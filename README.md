@@ -1,17 +1,17 @@
 
 # Simple Authentication System and Dashboard
 
-### Screenshots
-##Signup
-![Screenshot_29-8-2024_233823_localhost](https://github.com/user-attachments/assets/1210c44e-8b03-493e-8c75-aac1d7b642b1)
-##Login
-![Screenshot_29-8-2024_233530_localhost](https://github.com/user-attachments/assets/2b9d69ea-08d9-4200-8bb8-455da8e41666)
-##Dashboard
-![Screenshot_29-8-2024_232944_localhost](https://github.com/user-attachments/assets/34642885-ed15-41ff-91a9-4411b838747f)
-
 ## Overview
 
 This project is a basic authentication system with a dashboard interface that allows users to sign up, log in, and view various data presented on a dashboard. The frontend is built with React and Tailwind CSS, while the backend is powered by Node.js and Express, with PostgreSQL as the database.
+
+### Screenshots
+Signup
+![Screenshot_29-8-2024_233823_localhost](https://github.com/user-attachments/assets/1210c44e-8b03-493e-8c75-aac1d7b642b1)
+Login
+![Screenshot_29-8-2024_233530_localhost](https://github.com/user-attachments/assets/2b9d69ea-08d9-4200-8bb8-455da8e41666)
+Dashboard
+![Screenshot_29-8-2024_232944_localhost](https://github.com/user-attachments/assets/34642885-ed15-41ff-91a9-4411b838747f)
 
 ## Features
 
